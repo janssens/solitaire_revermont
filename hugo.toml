@@ -1,0 +1,23 @@
+title = "La solitaire du Revermont"
+theme = 'archie'
+copyright = "© Raidsaventure.fr"
+[params]
+	subtitle = "&ldquo;On devrait toujours répondre à l’invitation des cartes, croire à leur promesse&rdquo; -- Sylvain Tesson"
+	customcss = ["css/solitaire.css"]
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Articles"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Reglement"
+url = "/rules"
+weight = 3

@@ -1,0 +1,5 @@
+.idea
+node_modules
+hugo_stats.json
+.hugo_build.lock
+resources
