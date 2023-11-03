@@ -1,5 +1,5 @@
 +++
-title = 'Reglement'
+title = 'Réglement'
 date = 2023-10-29T09:13:16+01:00
 draft = false
 +++
@@ -11,7 +11,7 @@ L'épreuve est ouverte à tous mais réservée à ceux qui en acceptent ses règ
 ## Inscriptions
 
 Pour s'inscrire, le candidat doit envoyer un Haïku à l'adresse email noté sur l'affiche (il suffit de remplacer le premier point de l'url de ce site par un @)
-Les places sont limitées, ainsi les premiers inscrits seront prioritaires. (des invitations sont réservées à la discrétion de l'organisateur à tout ceux qui ont de l'argent pour le soudoyer)
+Les places sont limitées, ainsi les premiers inscrits seront prioritaires. (des invitations sont réservées à la discrétion de l'organisateur à tous ceux qui ont de l'argent pour le soudoyer)
 
 Les droits d'inscription s'élèvent à 1€/heure x 1:25000 x votre revenu fiscal de référence (rfr).
 L'épreuve 2023 durera 6h, le tarif est donc de `6/25 000 x rfr`.
@@ -28,10 +28,10 @@ Payable en liquide ou en monnaie locale.
 
 ### Conseillé :
 
-- une paire de chaussure
+- une paire de chaussures
 - des sous-vêtements
 - du ravitaillement solide et liquide
-- composter ses déchets vert et réduire sa consommation de viande
+- composter ses déchets verts et réduire sa consommation de viande
 ### Interdit :
 
 - les SUV
@@ -40,7 +40,6 @@ Payable en liquide ou en monnaie locale.
 ## Parcours
 
 Le parcours secret est tenu secret. Ainsi ce chapitre est vide.
-
 ## Secret
 
 Le candidat peut partager ces aventures dantesques sur les internets si il le souhaite.
@@ -52,35 +51,35 @@ les points de passages sont de 3 types :
 - balise CO
 - livre
 
-Pour les balises de type photo, le concurrent devra prendre une photo de l'élément caractéristique.
-Pour les balises avec pince, le concurrent devra poinçonner le carton fourni.
+Pour les balises de type photo, le concurrent devra prendre une photo de l'élément caractéristique.  
+Pour les balises avec pince, le concurrent devra poinçonner le carton fourni.  
 Pour les balises livres, le concurrent devra arracher et ramener la page correspondant à son numéro de dossard.
 
-Les points de passages sont à reporter dans l'heure précédent le départ sur une carte fournie.
+Les points de passages sont à reporter dans l'heure précédant le départ sur une carte fournie.
 
 ## Smartphone
 
 Une fois l'application `route choice tracker` lancée, le téléphone intelligent du candidat sera verrouillé à l'aide d'un code par l'organisateur.
-Ce code à 4 chiffres sera glissé dans une enveloppe et donnée au candidat pendant la course.
+Ce code à 4 chiffres sera glissé dans une enveloppe donnée au candidat pendant la course.
 En cas de besoin, le candidat pourra ouvrir l'enveloppe pour déverrouiller son téléphone.
-Seules les enveloppes cachetées (non ouverte) permettent au candidat de valider l'épreuve.
+Seules les enveloppes cachetées (non ouvertes) permettent au candidat de valider l'épreuve.
 Verrouillé, le téléphone doit permettre au candidat de prendre des photos.
 
 ## Sécurité
 
 Le candidat évolue en totale autonomie. Il se doit donc de survivre aux hypoglycémies, hypothermies, balles perdues de chasseur, véhicule thermique lancé à pleine vitesse, attaque de lynx, morsure de chevreuil, etc.
-Le strict respect du code de la route et de rigueur, ainsi que celui du "bon montagnard" (que vous ne trouverez pas sur YouTube ni sur chat GPT).
+Le strict respect du code de la route est de rigueur, ainsi que celui du "bon montagnard" (que vous ne trouverez pas sur YouTube ni sur chat GPT).
 ## Abandon
 
 Le candidat est libre de rentrer chez lui quand il le souhaite. Aucun dispositif n'est prévu pour l'y aider.
-Signaler son abandon est obligatoire. Les frais de recherche (dont le repas et l’hébergement à l’hôtel) des 150 secouristes venus à la recherche du candidat n'ayant pas prévenu de son abandon seront prélevé directement sur son PEL.
+Signaler son abandon est obligatoire. Les frais de recherche (dont le repas et l’hébergement à l’hôtel) des 150 secouristes venus à la recherche du candidat n'ayant pas prévenu de son abandon seront prélevés directement sur son PEL.
 ## Réussite
 
-Pour réussir le défi de la solitaire, le candidat devra ramener toutes les preuves de passage dans les délais imparti (6h). Il obtiendra alors le statut de membre de la confrérie.
-Si le temps est dépassé, même d'une seule seconde, la réussite ne sera pas validée. Idem si l'aspirant ne rapporte pas toutes ces preuves de passage.
+Pour réussir le défi de la solitaire, le candidat devra ramener toutes les preuves de passage dans les délais impartis (6h). Il obtiendra alors le statut de membre de la confrérie.
+Si le temps est dépassé, même d'une seule seconde, la réussite ne sera pas validée. Idem si l'aspirant ne rapporte pas toutes ses preuves de passage.
 
-Une liste sera éditée présentant les candidats dans l'ordre du nombre de balises ramené et de l'heure d'arrivée en cas d'égalité.
-Les candidats aillant dépassés le temps imparti seront affiché à la fin de cette liste.
+Une liste sera éditée présentant les candidats dans l'ordre du nombre de balises ramenées et de l'heure d'arrivée en cas d'égalité.
+Les candidats aillant dépassés le temps imparti seront affichés à la fin de cette liste.
 
 ## Réclamations
 
