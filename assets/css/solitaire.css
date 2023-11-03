@@ -1,7 +1,47 @@
 :root{
 --maincolor: rgb(200,200,200);
---bordercl:rebeccapurple;
---callouctcolor:dodgerblue;
---hovercolor:navy;
---darkMaincolor: #50fa7b;
+--bordercl:rgb(200,200,200);
+--callouctcolor:rgb(200,200,200);
+--hovercolor:rgb(200,200,200);
+--darkMaincolor: rgb(200,200,200);
+}
+.site-description p{
+    font-weight: bold;
+    letter-spacing: 0;
+}
+html {
+    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+}
+p{
+    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+    letter-spacing: -0.05em;
+}
+code{
+    font-style: italic;
+}
+
+h1::before ,
+h2::before ,
+h3::before ,
+h4::before ,
+h5::before ,
+h6::before { content: ''; }
+
+h1 {
+    font-size: 1.4rem;
+}
+h2{
+    font-size: 1.2rem;
+}
+h3 {
+    font-size: 1rem;
+}
+h4 {
+    font-size: 0.9rem;
+}
+h5 {
+    font-size: 0.8rem;
+}
+h5 {
+    font-size: 0.7rem;
 }
